@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="departments">
+        <item> Choose a department</item>
+        <item>Côtes d\'Armor</item>
+        <item>Finistère</item>
+        <item>Ille et Vilaine</item>
+        <item>Morbihan</item></string-array>
+
+    <string-array name="phone">
+        <item> </item>
+    </string-array>
+</resources>
